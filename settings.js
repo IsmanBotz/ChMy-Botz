@@ -20,7 +20,7 @@ global.autoread = false // auto read pesan / message
 // Other
 global.botname = "ChMy Botz" //namabot kalian
 global.ownername= "Isman TM" //nama kalian
-global.myweb ="https://api.ismanbotz.xyz" //bebas asal jan hapus
+global.myweb ="http://wa.me/6282237949722" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/IsmanFF" //bebas asal jan hapus
 global.github = "https://ismanbotz.github.io/" //bebas
 global.email = "ismanbotz@gmail.com" //bebas
